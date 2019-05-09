@@ -1,0 +1,37 @@
+{
+  "name": "punchclock",
+  "version": "1.0.0",
+  "description": "A simple MERN-like application for the course II1302 @ KTH",
+  "engines": {
+    "node": "11.14.0",
+    "npm": "6.7.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anga13/punchclock.git"
+  },
+  "keywords": [
+    "MERN-like",
+    "testing",
+    "KTH",
+    "II1302"
+  ],
+  "author": "anga13, antonkal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anga13/punchclock/issues"
+  },
+  "homepage": "https://github.com/anga13/punchclock#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "supertest": "^4.0.2"
+  }
+}
