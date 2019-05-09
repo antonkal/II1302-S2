@@ -1,4 +1,3 @@
-# punchclock
-A simple MERN-like application for the course II1302 at the Royal Institute of Technology.
+# Seminarie 2
+Bas för en enkel MERN-lik applikation för kursen "II1302 - Projekt & Projektmetoder" på Kungliga Tekniska Högskolan.
 
-Uses Node & Express.
